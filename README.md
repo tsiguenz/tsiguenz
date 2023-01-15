@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **nestjs and vuejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tsiguenz](https://github.com/tsiguenz)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
